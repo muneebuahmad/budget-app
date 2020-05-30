@@ -1,3 +1,5 @@
+Just a little budget app created to learn React with hooks and context API
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
